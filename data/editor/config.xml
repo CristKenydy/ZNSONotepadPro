@@ -1,0 +1,13 @@
+<Configuration xmlns="http://schemas.datacontract.org/2004/07/ZNSONotepadPro.Preference" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <FontSize>14</FontSize>
+    <NoteCollections xmlns:a="http://schemas.datacontract.org/2004/07/ZNSONotepadPro.NoteFiles">
+        <a:NoteCollection>
+            <a:ColName>My Note Files</a:ColName>
+            <a:ColPath>C:\Users\Administrator\Desktop\My Note Files</a:ColPath>
+        </a:NoteCollection>
+    </NoteCollections>
+    <Theme>Light</Theme>
+    <UserName>Administrator</UserName>
+    <EnabledAutoSave>false</EnabledAutoSave>
+    <AutoSaveMode>When Closing</AutoSaveMode>
+</Configuration>
